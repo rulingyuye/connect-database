@@ -1,5 +1,5 @@
 #! -*- coding:utf-8 -*-
-
+import pymysql
 
 def dbconn_database(sql_code,**kw):
 	'''
